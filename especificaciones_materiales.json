@@ -1,0 +1,2199 @@
+{
+    "pagina_49": {
+        "materiales": [
+            {
+                "material": "A105",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A216 WCB",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A515 70",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A105",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A350 LF2",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A516 70",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A350 LF2",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A672 C 70",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A537 Cl. 1",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A696 C",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A672 B 70",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A350 LF3",
+                "nominal_designation": "3 1/2Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A350 LF3",
+                "nominal_designation": "3 1/2Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A350 LF6 Cl. 1",
+                "nominal_designation": "C-Mn-Si-V",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A350 LF6 Cl. 1",
+                "nominal_designation": "C-Mn-Si-V",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A106 C",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A352 LC2",
+                "nominal_designation": "2 1/2Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A203 B",
+                "nominal_designation": "2 1/2Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A352 LC3",
+                "nominal_designation": "3 1/2Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A203 E",
+                "nominal_designation": "3 1/2Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A216 WCC",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A352 LCC",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A350 LF6 Cl. 2",
+                "nominal_designation": "C-Mn-Si-V",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A350 LF6 Cl. 2",
+                "nominal_designation": "C-Mn-Si-V",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A675 70",
+                "nominal_designation": "C",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A352 LCB",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A515 65",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A672 B 65",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A203 A",
+                "nominal_designation": "2 1/2Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A203 D",
+                "nominal_designation": "3 1/2Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A516 65",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A672 C 65",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A217 WC1",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A352 LC1",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A675 60",
+                "nominal_designation": "C",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A675 65",
+                "nominal_designation": "C",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A515 60",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A106 B",
+                "nominal_designation": "C-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A350 LF1 Cl. 1",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A516 60",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A350 LF1 Cl. 1",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A672 C 60",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A696 B",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A333 6",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F1",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A204 A",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F1",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A691 CM-70",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A204 B",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A387 2 Cl. 1",
+                "nominal_designation": "1/2Cr-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A691 1/2CR",
+                "nominal_designation": "1/2Cr-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A387 2 Cl. 2",
+                "nominal_designation": "1/2Cr-1/2Mo",
+                "tipo_producto": "Plates"
+            }
+        ]
+    },
+    "pagina_50": {
+        "materiales": [
+            {
+                "material": "A691 CM-75",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F2",
+                "nominal_designation": "1/2Cr-1/2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F2",
+                "nominal_designation": "1/2Cr-1/2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A217 WC4",
+                "nominal_designation": "Ni-1/2Cr-1/2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A217 WC5",
+                "nominal_designation": "3/4Ni-Mo-3/4Cr",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A387 12 Cl. 2",
+                "nominal_designation": "1Cr-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A387 11 Cl. 1",
+                "nominal_designation": "1 1/4Cr-1/2Mo-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A691 1 1/4CR",
+                "nominal_designation": "1 1/4Cr-1/2Mo-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A387 22 Cl. 1",
+                "nominal_designation": "2 1/4 Cr-1Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A691 2 1/4CR",
+                "nominal_designation": "2 1/4 Cr-1Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A335 P22",
+                "nominal_designation": "2 1/4 Cr-1Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP22",
+                "nominal_designation": "2 1/4 Cr-1Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F11 Cl. 2",
+                "nominal_designation": "1 1/4Cr-1/2Mo-Si",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A387 11 Cl. 2",
+                "nominal_designation": "1 1/4Cr-1/2Mo-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F11 Cl. 2",
+                "nominal_designation": "1 1/4Cr-1/2Mo-Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A217 WC6",
+                "nominal_designation": "1 1/4Cr-1/2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A739 B11",
+                "nominal_designation": "1 1/4Cr-1/2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F22 Cl. 3",
+                "nominal_designation": "2 1/4Cr-1Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A217 WC9",
+                "nominal_designation": "2 1/4Cr-1Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A387 22 Cl. 2",
+                "nominal_designation": "2 1/4Cr-1Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F22 Cl. 3",
+                "nominal_designation": "2 1/4Cr-1Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A739 B22",
+                "nominal_designation": "2 1/4Cr-1Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F21",
+                "nominal_designation": "3Cr-1Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A387 21 Cl. 2",
+                "nominal_designation": "3Cr-1Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F21",
+                "nominal_designation": "3Cr-1Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A302 A & B",
+                "nominal_designation": "Mn-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A302 C",
+                "nominal_designation": "Mn-1/2Mo-1/2Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A302 D",
+                "nominal_designation": "Mn-1/2Mo-3/4Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A537 CL2",
+                "nominal_designation": "C-Mn-Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A204 C",
+                "nominal_designation": "C-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A387 5 Cl. 1",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A691 5CR",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A387 5 Cl. 2",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A335 P5",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP5",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A335 P5b",
+                "nominal_designation": "5Cr-1/2Mo-Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F5a",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A217 C5",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F5a",
+                "nominal_designation": "5Cr-1/2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F9",
+                "nominal_designation": "9Cr-1Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A217 C12",
+                "nominal_designation": "9Cr-1Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F9",
+                "nominal_designation": "9Cr-1Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F91 Type 1",
+                "nominal_designation": "9Cr-1Mo-V",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A217 C12A",
+                "nominal_designation": "9Cr-1Mo-V",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A387 91 Cl. 2",
+                "nominal_designation": "9Cr-1Mo-V",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F91 Type 1",
+                "nominal_designation": "9Cr-1Mo-V",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A335 P91 Type 1",
+                "nominal_designation": "9Cr-1Mo-V",
+                "tipo_producto": "Tubular"
+            }
+        ]
+    },
+    "pagina_51": {
+        "materiales": [
+            {
+                "material": "A335 P1",
+                "nominal_designation": "C–1∕2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP1",
+                "nominal_designation": "C–1∕2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A387 12 Cl. 1",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A691 1CR",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A335 P12",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP12",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A335 P11",
+                "nominal_designation": "11∕4Cr–1∕2 Mo–Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP11",
+                "nominal_designation": "11∕4 Cr–1∕2Mo–Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F12 Cl. 2",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F12 Cl. 2",
+                "nominal_designation": "1Cr–1∕2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F5",
+                "nominal_designation": "5Cr–1∕2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F5",
+                "nominal_designation": "5Cr–1∕2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F92",
+                "nominal_designation": "9Cr–2W–V",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F92",
+                "nominal_designation": "9Cr–2W–V",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A335 P92",
+                "nominal_designation": "9Cr–2W–V",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A369 FP92",
+                "nominal_designation": "9Cr–2W–V",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A351 CF3",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CF8",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CF10",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP304",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A376 TP304H",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A351 CF3M",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CF8M",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CF10M",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP316",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A376 TP316H",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A351 CF3A",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CF8A",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F317",
+                "nominal_designation": "18Cr–13Ni–3Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 317",
+                "nominal_designation": "18Cr–13Ni–3Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A312 TP317",
+                "nominal_designation": "18Cr–13Ni–3Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A351 CG8M",
+                "nominal_designation": "19Cr–10Ni–3Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CG3M",
+                "nominal_designation": "19Cr–10Ni–3Mo",
+                "tipo_producto": "Castings"
+            }
+        ]
+    },
+    "pagina_52": {
+        "materiales": [
+            {
+                "material": "A182 F304L",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 304L",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F304L",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP304L",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 304L",
+                "nominal_designation": "18Cr–8Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F316L",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 316L",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F316L",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP316L",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 316L",
+                "nominal_designation": "16Cr–12Ni–2Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F317L",
+                "nominal_designation": "18Cr–13Ni–3Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F317L",
+                "nominal_designation": "18Cr–13Ni–3Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 F321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP321",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A376 TP321H",
+                "nominal_designation": "18Cr–10Ni–Ti",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 TP347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP347",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP347H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A376 TP348",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A376 TP348H",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A312 TP309H",
+                "nominal_designation": "23Cr–12Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A240 309H",
+                "nominal_designation": "23Cr–12Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A358 309H",
+                "nominal_designation": "23Cr–12Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 TP310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 310H",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F44",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CK3MCuN",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 S31254",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F44",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 S31254",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 S31254",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A358 S31254",
+                "nominal_designation": "20Cr–18Ni–6Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A240 309S",
+                "nominal_designation": "23Cr–12Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A240 310S",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 310S",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A351 CH8",
+                "nominal_designation": "25Cr–12Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CH20",
+                "nominal_designation": "25Cr–12Ni",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CF8C",
+                "nominal_designation": "18Cr–10Ni–Cb",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CK20",
+                "nominal_designation": "25Cr–20Ni",
+                "tipo_producto": "Castings"
+            }
+        ]
+    },
+    "pagina_53": {
+        "materiales": [
+            {
+                "material": "A182 F51",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A995 CD3MN",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A240 S31803",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F51",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A789 S31803",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F60",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 F60",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A790 S31803",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 S31803",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A240 S32205",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 S32205",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A789 S32205",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A790 S32205",
+                "nominal_designation": "22Cr–5Ni–3Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A240 S32550",
+                "nominal_designation": "25Cr–5Ni–3Mo–2Cu",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 S32550",
+                "nominal_designation": "25Cr–5Ni–3Mo–2Cu",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A789 S32550",
+                "nominal_designation": "25Cr–5Ni–3Mo–2Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A790 S32550",
+                "nominal_designation": "25Cr–5Ni–3Mo–2Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 F53",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 S32750",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 F53",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A789 S32750",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 S32750",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A790 S32750",
+                "nominal_designation": "25Cr–7Ni–4Mo–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A995 CE8MN",
+                "nominal_designation": "24Cr–10Ni–4Mo–N",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A995 CD4MCuN",
+                "nominal_designation": "25Cr–5Ni–3Cu–2Mo–N",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A995 CD3MWCuN",
+                "nominal_designation": "25Cr–7Ni–3.5Mo–W–N",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A182 F55",
+                "nominal_designation": "25Cr–7.5Ni–3.5Mo–N–Cu–W",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 S32760",
+                "nominal_designation": "25Cr–7.5Ni–3.5Mo–N–Cu–W",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 S32760",
+                "nominal_designation": "25Cr–7.5Ni–3.5Mo–N–Cu–W",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A789 S32760",
+                "nominal_designation": "25Cr–7.5Ni–3.5Mo–N–Cu–W",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A790 S32760",
+                "nominal_designation": "25Cr–7.5Ni–3.5Mo–N–Cu–W",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A213 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B462 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B463 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B462 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B473 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B464 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B468 N08020",
+                "nominal_designation": "35Ni–35Fe–20Cr–Cb",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N02200",
+                "nominal_designation": "99Ni",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B162 N02200",
+                "nominal_designation": "99Ni",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B160 N02200",
+                "nominal_designation": "99Ni",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B161 N02200",
+                "nominal_designation": "99Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B163 N02200",
+                "nominal_designation": "99Ni",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B162 N02201",
+                "nominal_designation": "99Ni–Low C",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B160 N02201",
+                "nominal_designation": "99Ni–Low C",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B564 N04400",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B127 N04400",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B164 N04400",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B165 N04400",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A494 M–35–1",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "B163 N04400",
+                "nominal_designation": "67Ni–30Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A494 M–35–2",
+                "nominal_designation": "67Ni–30Cu–S",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "B164 N04405",
+                "nominal_designation": "67Ni–30Cu–S",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B564 N06600",
+                "nominal_designation": "72Ni–15Cr–8Fe",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B168 N06600",
+                "nominal_designation": "72Ni–15Cr–8Fe",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B166 N06600",
+                "nominal_designation": "72Ni–15Cr–8Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B163 N06600",
+                "nominal_designation": "72Ni–15Cr–8Fe",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A213 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B409 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B408 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B163 N08800",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Tubular"
+            }
+        ]
+    },
+    "pagina_54": {
+        "materiales": [
+            {
+                "material": "B462 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B333 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B335 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N10665",
+                "nominal_designation": "65Ni–28Mo–2Fe",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B462 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B333 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B335 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N10675",
+                "nominal_designation": "64Ni–29.5Mo–2Cr–2Fe–Mn–W",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B462 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B575 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B462 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B574 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N10276",
+                "nominal_designation": "54Ni–16Mo–15Cr",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B564 N06625",
+                "nominal_designation": "60Ni–22Cr–9Mo–3.5Cb",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B443 N06625",
+                "nominal_designation": "60Ni–22Cr–9Mo–3.5Cb",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B446 N06625",
+                "nominal_designation": "60Ni–22Cr–9Mo–3.5Cb",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B333 N10001",
+                "nominal_designation": "62Ni–28Mo–5Fe",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B335 N10001",
+                "nominal_designation": "62Ni–28Mo–5Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N10001",
+                "nominal_designation": "62Ni–28Mo–5Fe",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B434 N10003",
+                "nominal_designation": "70Ni–16Mo–7Cr–5Fe",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B573 N10003",
+                "nominal_designation": "70Ni–16Mo–7Cr–5Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B575 N06455",
+                "nominal_designation": "61Ni–16Mo–16Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B574 N06455",
+                "nominal_designation": "61Ni–16Mo–16Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N06455",
+                "nominal_designation": "61Ni–16Mo–16Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N08825",
+                "nominal_designation": "42Ni–21.5Cr–3Mo–2.3Cu",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B424 N08825",
+                "nominal_designation": "42Ni–21.5Cr–3Mo–2.3Cu",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B425 N08825",
+                "nominal_designation": "42Ni–21.5Cr–3Mo–2.3Cu",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B423 N08825",
+                "nominal_designation": "42Ni–21.5Cr–3Mo–2.3Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B462 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B575 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B462 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B574 N06022",
+                "nominal_designation": "55Ni–21Cr–13.5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N06200",
+                "nominal_designation": "55Ni–23Cr–16Mo–1.6Cu",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B575 N06200",
+                "nominal_designation": "55Ni–23Cr–16Mo–1.6Cu",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B574 N06200",
+                "nominal_designation": "55Ni–23Cr–16Mo–1.6Cu",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N06200",
+                "nominal_designation": "55Ni–23Cr–16Mo–1.6Cu",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B564 N06200",
+                "nominal_designation": "55Ni–23Cr–16Mo–1.6Cu",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B435 N06002",
+                "nominal_designation": "47Ni–22Cr–9Mo–18Fe",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B572 N06002",
+                "nominal_designation": "47Ni–22Cr–9Mo–18Fe",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N06002",
+                "nominal_designation": "47Ni–22Cr–9Mo–18Fe",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B435 R30556",
+                "nominal_designation": "21Ni–30Fe–22Cr–18Co–3Mo–3W",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B572 R30556",
+                "nominal_designation": "21Ni–30Fe–22Cr–18Co–3Mo–3W",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 R30556",
+                "nominal_designation": "21Ni–30Fe–22Cr–18Co–3Mo–3W",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A182 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A182 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A240 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A479 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B599 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B672 N08700",
+                "nominal_designation": "25Ni–47Fe–21Cr–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A240 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A182 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A213 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A479 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A312 N08904",
+                "nominal_designation": "44Fe–25Ni–21Cr–Mo",
+                "tipo_producto": "Tubular"
+            }
+        ]
+    },
+    "pagina_56": {
+        "materiales": [
+            {
+                "material": "A453 651 and 660",
+                "nominal_designation": "A453",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B511 N08830",
+                "nominal_designation": "B511",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B572 N06230",
+                "nominal_designation": "B572",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B473",
+                "nominal_designation": "B473",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A540",
+                "nominal_designation": "A540",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A564 630",
+                "nominal_designation": "A564",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B637 N07718",
+                "nominal_designation": "B637",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B637 N07740",
+                "nominal_designation": "B637",
+                "tipo_producto": "Bolting"
+            }
+        ]
+    },
+    "pagina_55": {
+        "materiales": [
+            {
+                "material": "A182 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B462 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B462 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B564 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B564 N08031",
+                "nominal_designation": "31Ni–33Fe–27Cr–6.6Mo–Cu–C–N",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B462 N06030",
+                "nominal_designation": "40Ni–29Cr–15Fe–5Mo",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B564 N08810",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "B564 N06230",
+                "nominal_designation": "57Ni–22Cr–14W–2Mo–La",
+                "tipo_producto": "Forgings"
+            },
+            {
+                "material": "A351 CN3MN",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A494 N–12MV",
+                "nominal_designation": "62Ni–28Mo–5Fe",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A494 CW–12MW",
+                "nominal_designation": "53Ni–17Mo–16Cr–6Fe–5W",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "A351 CN7M",
+                "nominal_designation": "29Ni–201∕2Cr–31∕2Cu–21∕2Mo",
+                "tipo_producto": "Castings"
+            },
+            {
+                "material": "B620 N08320",
+                "nominal_designation": "26Ni–43Fe–22Cr–5Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B582 N06985",
+                "nominal_designation": "47Ni–22Cr–20Fe–7Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A240 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B688 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B575 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B582 N06975",
+                "nominal_designation": "49Ni–25Cr–18Fe–6Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B625 N08031",
+                "nominal_designation": "31Ni–33Fe–27Cr–6.6Mo–Cu–C–N",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B582 N06007",
+                "nominal_designation": "47Ni–22Cr–19Fe–6Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B582 N06030",
+                "nominal_designation": "40Ni–29Cr–15Fe–5Mo",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "A240 N08810",
+                "nominal_designation": "42Ni–2Fe–21Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B409 N08810",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B536 N08330",
+                "nominal_designation": "35Ni–19Cr–11∕4Si",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B435 N06230",
+                "nominal_designation": "57Ni–22Cr–14W–2Mo–La",
+                "tipo_producto": "Plates"
+            },
+            {
+                "material": "B621 N08320",
+                "nominal_designation": "26Ni–43Fe–22Cr–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B581 N06985",
+                "nominal_designation": "47Ni–22Cr–20Fe–7Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A182 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A479 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B691 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B574 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B581 N06975",
+                "nominal_designation": "49Ni–25Cr–18Fe–6Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B649 N08031",
+                "nominal_designation": "31Ni–33Fe–27Cr–6.6Mo–Cu–C–N",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B581 N06007",
+                "nominal_designation": "47Ni–22Cr–19Fe–6Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B462 N06030",
+                "nominal_designation": "40Ni–29Cr–15Fe–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B581 N06030",
+                "nominal_designation": "40Ni–29Cr–15Fe–5Mo",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "A479 N08810",
+                "nominal_designation": "42Ni–2Fe–21Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B408 N08810",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B511 N08330",
+                "nominal_designation": "35Ni–19Cr–11∕4Si",
+                "tipo_producto": "Bars"
+            },
+            {
+                "material": "B622 N08320",
+                "nominal_designation": "26Ni–43Fe–22Cr–5Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06985",
+                "nominal_designation": "47Ni–22Cr–20Fe–7Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A213 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A312 N08367",
+                "nominal_designation": "46Fe–24Ni–21Cr–6Mo–Cu–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06035",
+                "nominal_designation": "58Ni–33Cr–8Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06975",
+                "nominal_designation": "49Ni–25Cr–18Fe–6Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N08031",
+                "nominal_designation": "31Ni–33Fe–27Cr–6.6Mo–Cu–C–N",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06007",
+                "nominal_designation": "47Ni–22Cr–19Fe–6Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06030",
+                "nominal_designation": "40Ni–29Cr–15Fe–5Mo",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A213 N08810",
+                "nominal_designation": "42Ni–2Fe–21Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A312 N08810",
+                "nominal_designation": "42Ni–2Fe–21Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B407 N08810",
+                "nominal_designation": "33Ni–42Fe–21Cr",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B535 N08330",
+                "nominal_designation": "35Ni–19Cr–11∕4Si",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B167 N06600",
+                "nominal_designation": "72Ni–15Cr–8Fe",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "B622 N06230",
+                "nominal_designation": "57Ni–22Cr–14W–2Mo–La",
+                "tipo_producto": "Tubular"
+            },
+            {
+                "material": "A193",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A307B",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A320",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A354",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "A449",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B164",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B166",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            },
+            {
+                "material": "B408",
+                "nominal_designation": "Group 4 Materials",
+                "tipo_producto": "Bolting"
+            }
+        ]
+    }
+}
